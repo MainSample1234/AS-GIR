@@ -1,6 +1,7 @@
 import streamlit as st
 from transformers import AutoProcessor, ASTModel
 from tqdm import tqdm
+from bing_image_downloader import downloader
 import torch
 import sklearn  
 from sklearn.svm import SVC
