@@ -1,0 +1,11 @@
+streamlit
+transformers
+tqdm
+bing-image-downloader
+torch
+scikit-learn
+numpy
+librosa
+matplotlib
+requests
+beautifulsoup4
